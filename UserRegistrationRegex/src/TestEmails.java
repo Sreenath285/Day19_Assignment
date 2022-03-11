@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 public class TestEmails {
 
     /***
-     * defined array for valid emails
+     * defined array for sample emails
      */
     static String[] sampleEmails = {"abc@yahoo.com", "abc-100@yahoo.com", "abc.100@yahoo.com",
                                     "abc111@abc.com", "abc-100@abc.net", "abc.100@abc.com.au",
